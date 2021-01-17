@@ -1,0 +1,98 @@
+body{
+  font-family: r;
+}
+.ecart1{
+  margin-right: 50px;
+}
+.ecart2
+{
+  margin-right: 75px;
+}
+.navbar-brand
+{
+  margin-left: 100px;
+}
+.gauche{
+  margin-right: 100px;
+}
+.fond
+{
+  height: 450px;
+  background-color: #d41010;
+}
+.fond1
+{
+  height: 75px;
+  background-color: #d41010;
+}
+.espace
+{
+  line-height: 60px;
+}
+.taille
+{
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+@media(max-width:568px) {
+  .reduction {
+    display: none;
+  }
+  .taille1
+  {
+    font-size:45px;
+  }
+  .taille2{
+    font-size: 20px;
+  }
+  .center{
+    text-align: center;
+    width: 100%;
+
+  }
+   }
+  
+/*-samsung s9-*/
+  @media(max-width:360px){
+    .reduction{
+      display: none;
+    }
+    .simplon{
+      width: 75px;
+      height: 75px;
+      margin-bottom: 15px;
+    }
+    .taille1
+  {
+    font-size:45px;
+  }
+  .taille2{
+    font-size: 20px;
+  }
+  .espace{
+    margin-bottom: 25px;
+  }
+ }
+
+  
+
+
+
+
+  @media(max-width:470px){
+    .reduction{
+      display: none;
+     
+    }
+    @media(max-width:780px) {
+      .reduction {
+        display: none;
+       
+  }
